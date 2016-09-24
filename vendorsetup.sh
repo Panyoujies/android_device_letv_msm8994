@@ -1,0 +1,3 @@
+add_lunch_combo cm_msm8994-user
+add_lunch_combo cm_msm8994-userdebug
+add_lunch_combo cm_msm8994-eng
