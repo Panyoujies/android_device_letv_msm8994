@@ -20,9 +20,6 @@
 # definition file).
 #
 
-# Inherit from oppo-common
--include device/oppo/common/BoardConfigCommon.mk
-
 TARGET_OTA_ASSERT_DEVICE := x1,X1,msm8994,x800,x800+
 
 PLATFORM_PATH := device/letv/msm8994
