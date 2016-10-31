@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
+    "repository": "android_vendor_letv_msm8994",
+    "target_path": "vendor/letv/msm8994"
   },
 ]
